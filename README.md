@@ -35,7 +35,8 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://submissions.us-east-1.linodeobjects.com/and101/QCttWE2p.gif' title='Video Demo' width='' alt='Video Demo' />
+![QCttWE2p](https://github.com/user-attachments/assets/0378d66d-88a7-44d0-8258-ea958df42dac)
+
 
 GIF created with **your chosen GIF tool**
 
